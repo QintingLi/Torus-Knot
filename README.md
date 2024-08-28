@@ -1,4 +1,4 @@
-# Three.js Custom Shader Example
+# Three.js Custom Shader
 
 This project demonstrates a basic implementation of a custom shader using Three.js, a popular JavaScript library for 3D graphics. The example uses a custom fragment and vertex shader to create a hatching effect on a 3D object (a Torus Knot), and allows the user to interact with the 3D scene using orbit controls.
 
